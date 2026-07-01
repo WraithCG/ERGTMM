@@ -2286,7 +2286,7 @@
                     "type": "text",
                     "value": [
                         "<ul>",
-                        "<li>Go to <i>File -> New Level (Basic).</li>",
+                        "<li>Go to <i>File -> New Level (Basic).</i></li>",
                         "<li>Add <i>PlayerStart</i> at the origin or behind on the x-axis. Make sure there is some floor for the character to stand and run to reach till the origin.</li>",
                         "<li>Set GameMode to your desired child class of <i>BP_RunnerGM</i>.</li>",
                         "<li>Press Play.</li>",
